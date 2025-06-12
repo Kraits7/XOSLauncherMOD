@@ -6,7 +6,7 @@ It's still in development and won't be released anytime soon.
 # Requirements:
 - XOS (not HIOS)
 # Parameters
-Package name: com.transsion.XOSLauncher.upgrade
-Build number: each release/build has a different value 
-MinSDK: 31 (Android 12 Snow Cone) arm64-v8a
-TargetSDK: 31 (Android 12 Snow Cone) arm64-v8a
+- Package name: com.transsion.XOSLauncher.upgrade
+- Build number: each release/build has a different value 
+- MinSDK: 31 (Android 12 Snow Cone) arm64-v8a
+- TargetSDK: 31 (Android 12 Snow Cone) arm64-v8a
