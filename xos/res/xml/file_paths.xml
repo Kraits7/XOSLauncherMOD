@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="cache" path="." />
+    <files-path name="images" path="Pictures/OriPicture/" />
+    <external-path name="images" path="xn/files/Pictures/OriPicture/" />
+    <external-files-path name="xn_external_files" path="Pictures" />
+</paths>

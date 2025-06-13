@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <cns cn="com.android.dialer/com.android.dialer.DialtactsActivity" name="PHONE" />
+    <cns cn="com.android.dialer/com.android.dialer.app.DialtactsActivity" name="PHONE" />
+    <cns cn="com.android.contacts/com.android.contacts.activities.DialerActivity" name="PHONE" />
+    <cns cn="com.android.contacts/com.android.contacts.activities.DialtactsActivity" name="PHONE" />
+    <cns cn="com.android.contacts/com.android.dialer.DialtactsActivity" name="PHONE" />
+    <cns cn="com.android.mms/com.yulong.android.contacts.dial.DialActivity" name="PHONE" />
+    <cns cn="com.android.contacts/com.android.contacts.activities.PeopleActivity" name="CONTACTS" />
+    <cns cn="com.android.email/com.android.email.activity.Welcome" name="EMAIL" />
+    <cns cn="com.android.email/com.android.email.activity.EmailActivity" name="EMAIL" />
+    <cns cn="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" name="GALLERY" />
+    <cns cn="com.android.contacts/com.android.mms.ui.ConversationList" name="SMS" />
+    <cns cn="com.android.mms/com.android.mms.ui.BootActivity" name="SMS" />
+    <cns cn="com.android.mms/com.android.mms.ui.ConversationList" name="SMS" />
+    <cns cn="com.android.mms/com.android.mms.ui.traditional.MessageLaunchActivity" name="SMS" />
+    <cns cn="com.android.mms/com.yulong.android.mms.ui.MmsConversationListActivity" name="SMS" />
+    <cns cn="com.android.camera/com.android.camera.CameraActivity" name="CAMERA" />
+    <cns cn="com.android.camera/com.android.camera.Camera" name="CAMERA" />
+    <cns cn="com.android.camera/com.android.camera.CameraActivityWraper" name="CAMERA" />
+    <cns cn="com.android.camera/com.android.camera.CameraLauncher" name="CAMERA" />
+    <cns cn="com.android.camera2/com.android.camera.CameraLauncher" name="CAMERA" />
+    <cns cn="com.mediatek.camera/com.android.camera.CameraLauncher" name="CAMERA" />
+    <cns cn="com.android.browser/com.android.browser.BrowserActivity" name="BROWSER" />
+    <cns cn="com.android.calculator2/com.android.calculator2.Calculator" name="CALCULATOR" />
+    <cns cn="com.android2.calculator3/com.android2.calculator3.Calculator" name="CALCULATOR" />
+    <cns cn="com.transsion.calculator/com.transsion.calculator.Calculator" name="CALCULATOR" />
+    <cns cn="com.android.calendar/com.android.calendar.AllInOneActivity" name="CALENDAR" />
+    <cns cn="com.oneplus.calendar/com.android.calendar.AllInOneActivity" name="CALENDAR" />
+    <cns cn="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" name="CLOCK" />
+    <cns cn="com.android.deskclock/com.transsion.deskclock.DeskClock" name="CLOCK" />
+    <cns cn="com.transsion.deskclock/com.transsion.deskclock.DeskClock" name="CLOCK" />
+</resources>

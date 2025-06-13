@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites
+  xmlns:launcher="http://schemas.android.com/apk/res-auto/com.transsion.XOSLauncher.upgrade">
+    <resolve launcher:container="-101" launcher:screen="0" launcher:x="0" launcher:y="0">
+        <favorite launcher:className="com.android.contacts.activities.DialtactsActivity" launcher:packageName="com.android.contacts" />
+        <favorite launcher:className="com.android.contacts.activities.DialerActivity" launcher:packageName="com.android.contacts" />
+        <favorite launcher:uri="\#Intent;action=android.intent.action.DIAL;end" />
+        <favorite launcher:uri="tel:123" />
+        <favorite launcher:uri="\#Intent;action=android.intent.action.CALL_BUTTON;end" />
+    </resolve>
+    <resolve launcher:container="-101" launcher:screen="1" launcher:x="1" launcher:y="0">
+        <favorite launcher:className="com.android.mms.ui.ConversationList" launcher:packageName="com.android.contacts" />
+        <favorite launcher:className="com.android.mms.ui.BootActivity" launcher:packageName="com.android.mms" />
+        <favorite launcher:className="com.android.mms.ui.ConversationList" launcher:packageName="com.android.mms" />
+        <favorite launcher:className="com.google.android.apps.messaging.ui.ConversationListActivity" launcher:packageName="com.google.android.apps.messaging" />
+        <favorite launcher:uri="\#Intent;action=android.intent.action.MAIN;type=vnd.android-dir/mms-sms;launchFlags=0x10000000;end" />
+        <favorite launcher:uri="sms:" />
+        <favorite launcher:uri="smsto:" />
+        <favorite launcher:uri="mms:" />
+        <favorite launcher:uri="mmsto:" />
+    </resolve>
+    <resolve launcher:container="-101" launcher:screen="2" launcher:x="2" launcher:y="0">
+        <favorite launcher:uri="\#Intent;action=android.media.action.STILL_IMAGE_CAMERA;end" />
+        <favorite launcher:uri="\#Intent;action=android.intent.action.CAMERA_BUTTON;end" />
+    </resolve>
+    <resolve launcher:container="-101" launcher:screen="3" launcher:x="3" launcher:y="0">
+        <favorite launcher:className="com.proj.sun.activity.LaunchActivity" launcher:packageName="com.transsion.phoenix" />
+        <favorite launcher:className="com.android.contacts.activities.PeopleActivity" launcher:packageName="com.android.contacts" />
+        <favorite launcher:uri="\#Intent;action=android.intent.action.MAIN;category=android.intent.category.APP_BROWSER;category=android.intent.category.LAUNCHER;end" />
+        <favorite launcher:uri="http://www.example.com/" />
+    </resolve>
+    <appwidget launcher:className="com.android.launcher3.widget.VerticalClockWidget" launcher:packageName="com.transsion.XOSLauncher.upgrade" launcher:screen="0" launcher:spanX="2" launcher:spanY="2" launcher:x="0" launcher:y="0" />
+    <favorite launcher:className="com.transsion.theme.common.XThemeMain" launcher:packageName="com.transsion.XOSLauncher.upgrade" launcher:screen="0" launcher:x="0" launcher:y="3" />
+    <appwidget launcher:className="com.transsion.xlauncher.clean.CleanWidget" launcher:packageName="com.transsion.XOSLauncher.upgrade" launcher:screen="0" launcher:spanX="1" launcher:spanY="1" launcher:x="1" launcher:y="3" />
+    <appwidget launcher:className="com.transsion.xlauncher.switchwallpaper.SwitchWidget" launcher:packageName="com.transsion.XOSLauncher.upgrade" launcher:screen="0" launcher:spanX="1" launcher:spanY="1" launcher:x="2" launcher:y="3" />
+    <allapps launcher:screen="0" launcher:x="2" launcher:y="3" />
+</favorites>
