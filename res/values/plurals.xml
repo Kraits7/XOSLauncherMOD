@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="folder_titile_description_gb">
+        <item quantity="other">Froze %1$d app(s),freed %2$.2f GB space.</item>
+        <item quantity="one">Froze %1$d app,freed %2$.2f GB space.</item>
+    </plurals>
+    <plurals name="folder_titile_description_mb">
+        <item quantity="other">Froze %1$d app(s),freed %2$d MB space.</item>
+        <item quantity="one">Froze %1$d app,freed %2$d MB space.</item>
+    </plurals>
+    <plurals name="fui_error_weak_password">
+        <item quantity="other">Password not strong enough. Use at least %1$d characters and a mix of letters and numbers</item>
+        <item quantity="one">Password not strong enough. Use at least %1$d character and a mix of letters and numbers</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+</resources>
