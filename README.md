@@ -9,5 +9,5 @@
 # Parameters
 - Package name: com.transsion.XOSLauncher
 - Build number: each release/build has a different value 
-- MinSDK: 33 (Android 13 ) arm64-v8a
+- MinSDK: 33 (Android 13) arm64-v8a
 - TargetSDK: 33 (Android 13) arm64-v8a
